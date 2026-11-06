@@ -19,7 +19,12 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
-    }
+    },
+    {
+      titulo:"Responsabilidade Social",
+      descricao: "Assumimos nosso papel na sociedade, contribuindo para o desenvolvimento social e respeitando o meio ambiente."
+    },
+
   ],
   publicoAlvo:
     "Pequenas e médias empresas (PMEs), startups e profissionais autônomos de diversos segmentos, como comércio, saúde, educação e serviços, que precisam de sistemas web, aplicativos e soluções de gestão personalizadas, além de organizações que buscam modernizar sistemas legados ou melhorar a gestão e a segurança de seus dados.",
@@ -55,6 +60,14 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+    {
+      
+       nome: "Ana Carolina Silva",
+       cargo: "CTO e Desenvolvedora Full Stack",
+       foto: "/images/anacarolina.jpg",
+       alt: "Foto de Ana Carolina Silva",
+       descricao: "Responsável pelo desenvolvimento e inovação tecnológica da TED System, atua na criação de soluções digitais modernas e eficientes para empresas."
+    },
   ]
 };
